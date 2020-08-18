@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "monospace:size=8" };
 static char *font2[] = {
-	"Symbola:pixelsize=12:antialias=true:autohint=true",
+	"Noto Color Emoji:pixelsize=12:antialias=true:autohint=true",
 };
 static const char dmenufont[]       = "monospace:size=8";
 static const char col_gray1[]       = "#222222";
